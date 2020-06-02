@@ -3,3 +3,4 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home/spamacom/DB_daily_backup/
     - /bin/cp * $DEPLOYPATH
+    
